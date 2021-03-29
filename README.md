@@ -1,4 +1,3 @@
-# Добро пожаловать на мой сайт!
 ## Добро пожаловать на мой сайт!
 
 You can use the [editor on GitHub](https://github.com/oleg-rom/oleg-rom.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
